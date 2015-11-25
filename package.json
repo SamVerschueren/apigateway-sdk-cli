@@ -1,6 +1,6 @@
 {
   "name": "apigateway-sdk-cli",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Download the JavaScript AWS API Gateway SDK.",
   "license": "MIT",
   "repository": "SamVerschueren/apigateway-sdk-cli",
